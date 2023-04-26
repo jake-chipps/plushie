@@ -6,20 +6,16 @@ redirect_from: /docs/index.html
 
 ## Overview
 
-This curriculum is an introduction to programming physical computational artifacts.
+This DIY-style curriculum uses design to introduce physical computing. In this project, learners will: design an aesthetic layout for a plushie; design and construct a circuit on the plushie using conductive thread; program independent LEDs in the circuit; program music initiated by user interaction, and; program an animation using an LED matrix.
 
-### 1 The Circuit
-- Design the plushie.
-- Design and construct a circuit for the LEDs.
-
-### 2 Program the Lights
-- Program the LEDs.
-- Debug the code.
-
-### 3 Program the Music
-- Program the music.
-- Debug the code.
-
-### 4 Make the Plushie
-- Construct the final project.
-- Test.
+## Materials
+- Micro:Bit V2
+- Sewable LEDs (3-4)
+- USB to microUSB cord
+- Conductive thread
+- Regular or embroidery thread
+- Sewing needle
+- Computer with internet access and USB port
+- Felt
+- Fabric markers
+- Scissors
