@@ -21,5 +21,6 @@ It is highly advised that educators create a project of their own first in order
 - Sewing needle
 - Computer with internet access and USB port
 - Felt
+- Plushie stuffing/polyester fiber fill
 - Fabric markers
 - Scissors
